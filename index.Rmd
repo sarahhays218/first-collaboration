@@ -1,0 +1,13 @@
+---
+title: "index.Rmd"
+output: html_document
+date: '2022-08-03'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+I don't actually anticipate us using Rmarkdown except to update your previous workflow but we can do it just to follow through on the tutorial :)
