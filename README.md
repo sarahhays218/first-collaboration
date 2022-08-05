@@ -1,4 +1,4 @@
-# Hippopotamus
+# Hippopotamuses
 
 Collaborators:
 
