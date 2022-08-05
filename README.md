@@ -1,4 +1,4 @@
-# first-collaboration
+# Hippopotamus
 
 Collaborators:
 
